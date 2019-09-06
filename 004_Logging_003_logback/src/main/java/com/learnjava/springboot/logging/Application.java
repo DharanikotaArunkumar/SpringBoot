@@ -1,4 +1,4 @@
-package com.learnjava.springboot.logging._Logging_003_logback;
+package com.learnjava.springboot.logging;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

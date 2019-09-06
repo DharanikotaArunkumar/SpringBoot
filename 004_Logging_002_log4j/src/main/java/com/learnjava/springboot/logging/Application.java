@@ -1,4 +1,4 @@
-package com.learnjava.springboot.logging._Logging_002_log4j;
+package com.learnjava.springboot.logging;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
